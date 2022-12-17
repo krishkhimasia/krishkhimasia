@@ -1,7 +1,7 @@
 - 👋 Hey! I'm @krishkhimasia
 - 🌱 I’m currently studying Computer Science & Engineering at Indian Institute of Technology, Kharagpur
 - 👀 I'm currently exploring Competitive Programming, Web Development, and a tiny bit of Machine Learning!
-- 👨🏽‍💻 Check my portfolio out <href="https://krishkhimasia.github.io">here</href>
+- 👨🏽‍💻 Check my portfolio out [here](https://krishkhimasia.github.io)
 - 📫 E-mail: khimasiakrish@gmail.com
 
 <!--
