@@ -4,6 +4,15 @@
 - 👨🏽‍💻 Check my portfolio out [here](https://krishkhimasia.github.io)
 - 📫 E-mail: khimasiakrish@gmail.com
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishkhimasia&show_icons=true&theme=dark" />
+</p>
+<P align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkhimasiadd&layout=compact&theme=transparent" />
+</p>
+
 <!--
 **krishkhimasia/krishkhimasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
